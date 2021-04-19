@@ -23,7 +23,7 @@ export class BookingService {
       motorizationCar: "4cv",
       dateForth: "20/04/2021",
       hoursForth: "10:00",
-      urlGrayCard: '../../assets/carteGrise/1.png',
+      urlGrayCard: './assets/carteGrise/1.png',
       idBooking: 1
     },
     {
@@ -39,7 +39,7 @@ export class BookingService {
       motorizationCar: "4cv",
       dateForth: "21/04/2021",
       hoursForth: "10:00",
-      urlGrayCard: '../../assets/carteGrise/2.png',
+      urlGrayCard: './assets/carteGrise/2.png',
       idBooking: 2
     },
     {
@@ -55,7 +55,7 @@ export class BookingService {
       motorizationCar: "4cv",
       dateForth: "22/04/2021",
       hoursForth: "10:00",
-      urlGrayCard: '../../assets/carteGrise/3.png',
+      urlGrayCard: './assets/carteGrise/3.png',
       idBooking: 3
     }
   ];
